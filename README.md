@@ -12,10 +12,6 @@ copy file:
 ```
 cp /tmp/git-hook-gitleaks/hooks/pre-commit.sh .git/hooks/pre-commit
 ```
-save it as
-```
- .git/hooks/pre-commit
-```
 make it executable
 ```
 chmod +x .git/hooks/pre-commit
