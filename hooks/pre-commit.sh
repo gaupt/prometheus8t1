@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 # Function to install gitleaks
 install_gitleaks() {
     echo "Installing gitleaks..."
