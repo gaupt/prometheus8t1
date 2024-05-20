@@ -10,7 +10,7 @@ git clone https://github.com/gaupt/prometheus8t1.git /tmp/git-hook-gitleaks
 ```
 copy file:
 ```
-cp /tmp/git-hook-gitleaks/hooks/pre-commit.sh
+cp /tmp/git-hook-gitleaks/hooks/pre-commit.sh .git/hooks/pre-commit
 ```
 save it as
 ```
